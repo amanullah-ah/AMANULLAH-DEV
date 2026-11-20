@@ -1,0 +1,32 @@
+{
+  "name": "AMAN ULLAH | Creative Developer Portfolio",
+  "short_name": "AMAN ULLAH",
+  "description": "Web tools, Telegram bots, WhatsApp bots and Android apps by Aman Ullah from Pakistan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080c",
+  "theme_color": "#08080c",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "https://ik.imagekit.io/amanphoto/20260620_164003.png?updatedAt=1781955650166",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://ik.imagekit.io/amanphoto/20260620_164003.png?updatedAt=1781955650166",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

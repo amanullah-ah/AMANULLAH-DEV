@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /firebase/
+Disallow: /section.html
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+Sitemap: https://amanullah-dev.vercel.app/sitemap.xml
